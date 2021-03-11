@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Yujun Cho",
+	"description": "Description for FCC managing packings with NPM",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
