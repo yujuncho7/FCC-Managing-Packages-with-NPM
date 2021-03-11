@@ -4,6 +4,7 @@
 	"description": "Description for FCC managing packings with NPM",
 	"keywords": [ "freecodecamp" ],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
